@@ -5,7 +5,6 @@ import RegisterPage from './pages/Register';
 import SignInPage from './pages/SignIn';
 import FeedPage from './pages/FeedPage';
 import Navbar from './components/Navbar';
-import { backendClient } from './clients/backendClient';
 import './App.css';
 
 function App() {
